@@ -27,7 +27,8 @@
   "sneak": true,
   "jump": true,
   "rotate": true,
-  "swing-arm": true
+  "swing-arm": true,
+  "interval": 30000
     },
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
